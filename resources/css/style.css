@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+.Headers1 {
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+}
+.Headers2 {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+a,.Download {
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+p {
+  color: gray;
+  font-size: 21px;
+}
+.footer {
+  text-align: right;
+  color: gray;
+}
